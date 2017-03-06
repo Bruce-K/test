@@ -8,6 +8,6 @@ class Good extends Model
 {
 
 
-	//test
+	//testdsadsa
     protected $fillable = ['name', 'price'];
 }
