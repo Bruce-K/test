@@ -21,6 +21,8 @@ class OrderController extends Controller
 
         
         return $request->input('name');
+        return $request->input('name');
+        return $request->input('name');
     }
 
 }

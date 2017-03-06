@@ -6,5 +6,8 @@ use Illuminate\Database\Eloquent\Model;
 
 class Good extends Model
 {
+
+
+	//test
     protected $fillable = ['name', 'price'];
 }
