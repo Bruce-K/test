@@ -26,6 +26,10 @@ class GoodController extends Controller {
 
         return 1;
         return 1;
+        return 1;
+        return 1;
+        return 1;
+        return 1;
 
 
         DB::beginTransaction();
