@@ -11,7 +11,7 @@ use Illuminate\Support\Facades\DB;
 
 
 class GoodController extends Controller {
-    //fjdskfjdasgodos
+
     public function index() {
         $goods = Good::all();
         $g = 1;
@@ -24,11 +24,6 @@ class GoodController extends Controller {
 
     public function store(Request $request) {
 
-        return 1;
-        return 1;
-        return 1;
-        return 1;
-        return 1;
         return 1;
 
 
