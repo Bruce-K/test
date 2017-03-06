@@ -25,6 +25,7 @@ class GoodController extends Controller {
     public function store(Request $request) {
 
         return 1;
+        return 1;
 
 
         DB::beginTransaction();

@@ -17,6 +17,7 @@ class GoodPrice
     {
         if ($request->input('name') === 'zhangsan'){
             return '张三不能登录';
+            return 'jkfjdsl';
         }
 
         return $next($request);
