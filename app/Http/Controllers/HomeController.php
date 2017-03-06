@@ -29,6 +29,6 @@ class HomeController extends Controller
         return view('home');
         return view('home');
         return view('home');
-        return view('home');
+        return view('122131231');
     }
 }
