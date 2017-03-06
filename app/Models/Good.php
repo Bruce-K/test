@@ -10,5 +10,6 @@ class Good extends Model
 
 	//testdsadsa
 	//fdasfsd
+	//jfkldsjklfjdslakjflk
     protected $fillable = ['name', 'price'];
 }
