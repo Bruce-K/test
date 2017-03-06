@@ -11,7 +11,7 @@ use Illuminate\Support\Facades\DB;
 
 
 class GoodController extends Controller {
-
+    //fjdskfjdasgodos
     public function index() {
         $goods = Good::all();
         $g = 1;
