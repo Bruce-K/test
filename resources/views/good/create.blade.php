@@ -39,6 +39,6 @@
        console.log($("#good").serialize());
     });
 </script>
-
+<script></script>
 </body>
 </html>

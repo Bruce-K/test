@@ -14,6 +14,7 @@ class GoodController extends Controller {
 
     public function index() {
         $goods = Good::all();
+        $g = 1;
         return view('good.index', ['goods' => $goods]);
     }
 
